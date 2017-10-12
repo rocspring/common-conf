@@ -3,7 +3,7 @@ alias gadd='git status | git add . '
 
 alias gb='git branch '
 
-alias gcb='git checkout '
+alias gcb='git checkout -b'
 
 alias gci='git commit -a -m '
 
