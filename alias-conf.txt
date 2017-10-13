@@ -9,6 +9,8 @@ alias gci='git commit -a -m '
 
 alias gco='git checkout '
 
+alias gsh='git show '
+
 alias grep='grep --color'
 
 alias gst='git status'
