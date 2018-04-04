@@ -6,6 +6,7 @@ common conf
 ```
 alias gst="git status"
 ```
+如果没有.bash_profile文件，那就直接创建一个.bash_profile，然后进行编辑
 
 2. 按照正常的逻辑直接执行（或者重启一下终端) 
 ```
