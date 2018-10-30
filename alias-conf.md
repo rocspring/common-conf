@@ -20,6 +20,10 @@ alias gst='git status'
 
 alias gpush='git push origin'
 
+alias gpull='git pull'
+
+alias gdiff='git diff'
+
 alias glg="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 
 
