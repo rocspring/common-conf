@@ -1,3 +1,4 @@
+ ```
  color Tomorrow-Night
 
 " plugins start {{{
@@ -48,3 +49,4 @@
 let g:NERDTreeDirArrows = 1
 let NERDTreeShowHidden = 1
 " }}}
+```
