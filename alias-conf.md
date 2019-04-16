@@ -1,3 +1,4 @@
+```
 alias ll='ls -l'
 
 alias la='ls -la'
@@ -26,4 +27,4 @@ alias gdiff='git diff'
 
 alias glg="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 
-
+```
