@@ -1,3 +1,4 @@
+``` bash
 set user ${user}
 set host ${host}
 set password ${password}
@@ -7,3 +8,4 @@ expect "*password:*"
 send "$password\r"
 interact
 expect eof
+```
