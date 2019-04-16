@@ -1,9 +1,24 @@
 ```
+###############
+# ls alias
+###############
 alias ll='ls -l'
 
 alias la='ls -la'
 
-alias gadd='git status | git add . '
+###############
+# cd alias
+###############
+alias cws='cd ~/Documents/workspace'
+
+alias cms='cd ~/Documents/myspace'
+
+alias cls='cd ~/Documents/learnspace'
+
+###############
+# git alias
+###############
+alias gad='git status | git add . '
 
 alias gb='git branch '
 
