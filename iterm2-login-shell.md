@@ -1,4 +1,6 @@
 ``` bash
+#!/usr/bin/expect -f
+
 set user ${user}
 set host ${host}
 set password ${password}
