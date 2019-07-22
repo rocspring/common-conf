@@ -1,3 +1,4 @@
+### 脚本
 ``` bash
 #!/usr/bin/expect -f
 
@@ -10,4 +11,8 @@ expect "*password:*"
 send "$password\r"
 interact
 expect eof
+```
+### 配置
+```
+expect ${scriptPath}
 ```
